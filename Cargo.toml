@@ -1,0 +1,7 @@
+[package]
+name = "dnsfun"
+version = "0.1.0"
+edition = "2021"
+author = ["Patrick M. Elsen <pelsen@xfbs.net>"]
+
+[dependencies]
