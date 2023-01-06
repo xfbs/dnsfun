@@ -45,7 +45,7 @@ cargo add clap --features derive,env
 cargo add tokio --features macros,rt-multi-thread,net
 cargo add trust-dns-server
 cargo add tracing
-cargo add traving-subscriber
+cargo add tracing-subscriber
 cargo add async-trait
 ```
 
